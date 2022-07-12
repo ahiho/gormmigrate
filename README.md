@@ -1,0 +1,2 @@
+# Migration helper for GORM
+
