@@ -16,6 +16,8 @@ package migrations
 
 import (
 	"gorm.io/gorm"
+
+	"github.com/ahiho/gormmigrate"
 )
 
 var {{ migrationName }} = &gormmigrate.Migration{
